@@ -1,0 +1,7 @@
+node_modules*
+.prettierrc
+/.idea
+readme*
+*/.env
+frontend/build
+/.vscode
